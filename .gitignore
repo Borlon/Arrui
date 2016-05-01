@@ -1,0 +1,11 @@
+/*.classpath
+/*.project
+/.settings/*.prefs
+*.classpath
+*.prefs
+*.project
+/rest-module/.settings/.jsdtscope
+/rest-module/.settings/org.eclipse.wst.common.component
+/rest-module/.settings/org.eclipse.wst.common.project.facet.core.xml
+/rest-module/.settings/org.eclipse.wst.jsdt.ui.superType.container
+/rest-module/.settings/org.eclipse.wst.jsdt.ui.superType.name
