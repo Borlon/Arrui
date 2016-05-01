@@ -1,6 +1,6 @@
 /*.classpath
 /*.project
-/.settings/*.prefs
+*/.settings/**
 *.classpath
 *.prefs
 *.project
@@ -9,3 +9,4 @@
 /rest-module/.settings/org.eclipse.wst.common.project.facet.core.xml
 /rest-module/.settings/org.eclipse.wst.jsdt.ui.superType.container
 /rest-module/.settings/org.eclipse.wst.jsdt.ui.superType.name
+*/target/**
