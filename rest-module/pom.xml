@@ -13,6 +13,11 @@
   <name>rest-module Maven Webapp</name>
   
   <dependencies>
+   	<dependency>
+  		<groupId>org.springframework</groupId>
+  		<artifactId>spring-webmvc</artifactId>
+  		<version>${spring.version}</version>
+  	</dependency>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
